@@ -1,0 +1,4 @@
+Lunch index.html file to open web-app
+
+To attach return to home after form submission add website home page url to 
+script.js -->> myfunc1, after pulbishing the website to server.
